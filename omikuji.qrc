@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>saiban_zabuton.png</file>
+  </qresource>
+</RCC>

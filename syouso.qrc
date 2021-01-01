@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>omikuji_result/1.png</file>
+    <file>omikuji_result/2.png</file>
+    <file>omikuji_result/3.png</file>
+    <file>omikuji_result/4.png</file>
+    <file>omikuji_result/5.png</file>
+    <file>omikuji_result/6.png</file>
+    <file>omikuji_result/7.png</file>
+    <file>omikuji_result/8.png</file>
+    <file>omikuji_result/9.png</file>
+    <file>omikuji_result/10.png</file>
+    <file>omikuji_result/11.png</file>
+    <file>omikuji_result/12.png</file>
+    <file>omikuji_result/13.png</file>
+    <file>omikuji_result/14.png</file>
+    <file>omikuji_result/15.png</file>
+  </qresource>
+</RCC>
